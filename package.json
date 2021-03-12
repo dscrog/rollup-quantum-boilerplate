@@ -3,10 +3,10 @@
     "dependencies": {
         "@javascribble/quantum": "^1.1.0",
         "@javascribble/quantum-button": "^1.1.0",
-        "@javascribble/quantum-icon": "^1.1.0",
-        "@javascribble/rollup-quantum-build": "^1.1.1"
+        "@javascribble/quantum-icon": "^1.1.0"
     },
     "devDependencies": {
+        "@javascribble/rollup-quantum-build": "^1.1.1",
         "live-server": "*"
     },
     "scripts": {
