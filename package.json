@@ -1,0 +1,16 @@
+{
+    "name": "@javascribble/rollup-quantum-boilerplate",
+    "dependencies": {
+        "@javascribble/quantum": "^1.1.0",
+        "@javascribble/quantum-button": "^1.1.0",
+        "@javascribble/quantum-icon": "^1.1.0",
+        "@javascribble/rollup-quantum-build": "^1.1.1"
+    },
+    "devDependencies": {
+        "live-server": "*"
+    },
+    "scripts": {
+        "build": "node ./node_modules/@javascribble/rollup-quantum-build/source/main.js ./source/main.js ./build",
+        "start": "live-server --open=/test/index.html"
+    }
+}
