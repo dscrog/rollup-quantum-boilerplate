@@ -11,5 +11,6 @@
     "scripts": {
         "build": "cd ../rollup-quantum-build && npm start ../rollup-quantum-boilerplate/source/main.js ../rollup-quantum-boilerplate/build",
         "start": "live-server --open=/test/index.html"
-    }
+    },
+    "version": "0.1.0"
 }
