@@ -1,7 +1,7 @@
 {
     "name": "@javascribble/rollup-quantum-boilerplate",
     "dependencies": {
-        "@javascribble/quantum": "^1.5.6"
+        "@javascribble/quantum": "^1.5.7"
     },
     "devDependencies": {
         "live-server": "*"
